@@ -1,0 +1,22 @@
+version: "3"
+services:
+    frontend:
+        container_name: mensafrontend
+        build:
+            context: ./client
+            dockerfile: Dockerfile
+        image: karsten/mensafrontend
+        ports:
+            - "3000:3000"
+        volumes:
+            - ./client:/usr/src/app
+    backend:
+        container_name: mensabackend
+        build:
+            context: ./server
+            dockerfile: Dockerfile
+        image: karsten/mensabackend
+        ports:
+            - "5000:5000"
+        volumes:
+            - ./server:/usr/src/app
