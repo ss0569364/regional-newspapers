@@ -1,34 +1,32 @@
 ============================================================================================================================
-KIEZ KULTUR README APP
+# KIEZ KULTUR README APP
 
-1. Directory Structure
-1.1 Frontend
-HIER BITTE DU BISSCHEN WAS REINSCHREIBEN
+## 1. Directory Structure
+The following lines will explain the directory structure.
 
-1.2 Python / Backend
-Backend:
-Backend.py to run the Flask Server on localhost:5000
+## 1.1 Backend
+Backend.py to run the Flask Server on localhost:5000.
 
-Click Dummy:
-Link to our Figma click dummy prototype
+## 1.2 Click Dummy
+Link to our Figma click dummy prototype.
 
-Deprecated, Test:
+## 1.3 Deprecated, Test
 Python Codes that have been replaced or were merely for testing purposes
 
-Geo_Tagging:
+## 1.4 Geo_Tagging
 Classes and libraries to geo localize hospitals, parks, schools, streets & universities
 
-NER:
+## 1.5 NER
 Python Code to generate Training Data for spacy and transform it into .spacy filetype. Also includes NER.ipynb to demonstrate
 our trained NER SpaCy Model versus the normal german model.
 
-Scraping:
+## 1.6 Scraping:
 Scraping Code for Tagesspiegel RSS Feed and Drucksachen from berlins district offices.
 
-Table Files:
+## 1.7 Table Files:
 MongoDB Collections to import into your local MongoDB.
 
-To Do:
+## 1.8 To Do:
 Features that should be implemented where we ran out of time.
 
 
