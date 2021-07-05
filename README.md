@@ -73,9 +73,12 @@ You can find our trained model in the python\NER directory with the python scrip
 ## 4. To Do
 You'll find an python\To Do directory, which shows which functionalities shall be implemented in the future.
 
-## 5. Used DataSets
-CREDIT KAGGLE DATASET: https://www.kaggle.com/rtatman/3-million-german-sentences?select=deu_news_2015_3M-sentences.txt
+## 5. Used Data / DataSets
+CREDIT KAGGLE DATASET: 
+https://www.kaggle.com/rtatman/3-million-german-sentences?select=deu_news_2015_3M-sentences.txt
 Downloaded for future uses to train our SpacY NER algorythm
+
+Data scraped from the Drucksachen Website for each district office and the tagesspiegel Rss Feed.
 
 ## 6. Misc.
 You can find a link to our Figma Click Dummy in the python\Click Dummy directory. Also we provided Deprecated and Testcode snippets which were replaced or used to test Stuff in the Deprecated, Test directory.
