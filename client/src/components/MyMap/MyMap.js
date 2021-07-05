@@ -32,8 +32,8 @@ class MyMap extends Component {
 			],
 			target: 'map',
 			view: new window.ol.View({
-				center: window.ol.proj.fromLonLat([13.404954, 52.520008]), //Berlin
-				zoom: 12.5
+				center: window.ol.proj.fromLonLat([JSON.parse(localStorage.getItem('Geo'))['lng'], JSON.parse(localStorage.getItem('Geo'))['lat']]), //Berlin
+				zoom: 16
 			})
 		});
 
@@ -57,7 +57,7 @@ class MyMap extends Component {
 
 	createNewsPoints() {
 		var allPoints = [];
-		var dbIcon = { "rssFeed": "./berlinerBaer.png", "drucksachen": "./newspaper.png" };
+		var dbIcon = { "rssFeed": "./newspaper.png", "drucksachen": "./berlinerBaer.png" };
 
 		for (const dbIndex in dbIcon) {
 			for (const article of getNewsOnlyWithGeoLocation(dbIndex)) {

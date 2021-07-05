@@ -1,0 +1,3961 @@
+[{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a297"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2026/5 Den Denkmalschutz für die Gesamtanlage Westendallee 77-91, einschließlich aller Mietergärten erhalten!",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8038",
+  "Initiator": "Ausschuss für Stadtentwicklung",
+  "pubDate": "17.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a298"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2025/5 Einrichtung eines \"Geflüchtetenparlaments\"",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8037",
+  "Initiator": "Bezirksverordnetenvorsteherin",
+  "pubDate": "16.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a299"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2024/5 Position zur Herabsenkung des Wahlalters auf 16 Jahre",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8036",
+  "Initiator": "Bezirksverordnetenvorsteherin",
+  "pubDate": "16.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a29a"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2023/5 Einrichtung einer kommunalen Klimaschutzkonferenz",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8035",
+  "Initiator": "Bezirksverordnetenvorsteherin",
+  "pubDate": "16.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a29b"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2022/5 Umgestaltung der Halle im Manna-Westend",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8034",
+  "Initiator": "Bezirksverordnetenvorsteherin",
+  "pubDate": "16.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a29c"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2021/5 Digitalisierung der BVV-Arbeit voranbringen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8033",
+  "Initiator": "Ausschuss für Haushalt, Personal und Wirtschaftsförderung",
+  "pubDate": "15.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a29d"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2020/5 Mündliche Anfragen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8032",
+  "Initiator": "Bezirksverordnetenvorsteherin",
+  "pubDate": "09.06.2021",
+  "Art": "Mündliche Anfragen"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a29e"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2019/5 Anbindung der Bolivarallee an das Fahrradnetz Berlin",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8031",
+  "Initiator": "AfD-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a29f"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2018/5 Hygieneprodukte kostenfrei zur Verfügung stellen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8030",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a0"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2017/5 Pfandringe an Mülleimern anbringen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8029",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a1"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2016/5 Macht Charlottenburg-Wilmersdorf klimaneutral!",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8028",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a2"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2015/5 Stufenplan für die Rekommunalisierung der Schulreinigung vorlegen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8027",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a3"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2014/5 Vorkaufsrecht auch bei Share Deals anwenden",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8026",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a4"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2013/5 Neue Bänke für nachhaltige Sauberkeit",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8025",
+  "Initiator": "FDP-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a5"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2012/5 Schöne, größere Müllbehälter für gepflegte Parkanlagen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8024",
+  "Initiator": "FDP-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a6"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2011/5 Bezirkskulturbericht im Ausschuss für Weiterbildung und Kultur vorstellen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8023",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a7"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2010/5 Skatepark am Heidelberger Platz erweitern",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8022",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a8"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2009/5 Fahrrad für Mobilitätsbeeinträchtige",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8021",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2a9"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2008/5 Südwestkorso sicherer gestalten",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8020",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2aa"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2007/5 Geplanten verkehrsberuhigten Bereich in der Zillestraße grüner gestalten",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8019",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ab"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2006/5 Errichtung eines temporären Zebrastreifens",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8018",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ac"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2005/5 Glascontainer versetzen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8017",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ad"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2004/5 Saubere und sichere Reichsstraße",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8016",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ae"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2003/5 Elektromobilität in der Reichsstraße",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8015",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2af"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2002/5 Glücksspiel in der Reichsstraße",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8014",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b0"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2001/5 Kinder und Jugendliche schützen – Überquerung der Mecklenburgischen Straße sichern",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8013",
+  "Initiator": "SPD-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b1"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "2000/5 Verkehrschaos in der südlichen Windscheidstraße – was unternimmt das Bezirksamt?",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8012",
+  "Initiator": "SPD-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b2"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "1999/5 Klimanotstand in CW – Projekte zur Wärmerückgewinnung aus Abwasser prüfen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8011",
+  "Initiator": "SPD-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b3"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "1998/5 Bezirkliches Konzept für E-Mobilität auf zwei Rädern vorlegen",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8010",
+  "Initiator": "SPD-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b4"
+  },
+  "Scraped": true,
+  "District": "charlottenburg-wilmersdorf",
+  "Headline": "1997/5 Die Bürgerinnen und Bürger von Charlottenburg-Wilmersdorf wollen sitzen!",
+  "Link": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8009",
+  "Initiator": "SPD-Fraktion",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b5"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2703/VIII Bezirkliche Vereinbarung zum Arbeitsbündnis \"Haus der Teilhabe\" (BA-Vorlage Nr. 1174/V)",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9571",
+  "Initiator": "BzStRin WeiKultSozFM",
+  "pubDate": "17.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b6"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2702/VIII Zu: Moderne Bürgerämter für eine wachsende Bevölkerung im Bezirk",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9570",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Dringliche Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b7"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2701/VIII Entfristung der Stelle des/der Behindertenbeauftragten",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9569",
+  "Initiator": "Fraktion der AfD",
+  "pubDate": "14.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b8"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2700/VIII Zur Förderung von Mikroprojekten während der Berliner Pride Weeks 2021 „Queer im Kiez – Nachbarschaft unter’m Regenbogen“",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9568",
+  "Initiator": "Bezirksverordneter",
+  "pubDate": "11.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2b9"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2699/VIII Zum Abriss der Hallen Bergedorfer Str./Waldstr",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9567",
+  "Initiator": "Bürger",
+  "pubDate": "11.06.2021",
+  "Art": "Einwohneranfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ba"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2698/VIII Zu: Rathausbrunnen",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9566",
+  "Initiator": "Bezirksverordneter",
+  "pubDate": "11.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2bb"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2697/VIII Zum Neubauprojekt Sporthalle Ulmengrundschule",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9565",
+  "Initiator": "Bürgerin",
+  "pubDate": "11.06.2021",
+  "Art": "Einwohneranfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2bc"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2696/VIII Umsetzung Pauschale Minderausgaben 2020/2021 (BA-Vorlage Nr. 1385/V)",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9564",
+  "Initiator": "Bezirksbürgermeisterin",
+  "pubDate": "09.06.2021",
+  "Art": "Mitteilung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2bd"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2695/VIII Eckwerte zur Aufstellung des Bezirkshaushaltsplanes für dieHaushaltsjahre 2022/2023 (BA-Vorlage 1367/V)",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9563",
+  "Initiator": "Bezirksbürgermeisterin",
+  "pubDate": "09.06.2021",
+  "Art": "Mitteilung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2be"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2694/VIII Zur Ulmengrundschule",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9562",
+  "Initiator": "Bürgerin",
+  "pubDate": "09.06.2021",
+  "Art": "Einwohneranfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2bf"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2693/VIII Festsetzung des Bebauungsplanes XXIII-32a-1 vom 10. Oktober 2016 mit Deckblatt vom 25. Oktober 2017 für das Grundstück Waplitzer Straße 11 A im Bezirk Marzahn-Hellersdorf, Ortsteil Kaulsdorf (BA-Vorlage Nr. 1265/V)",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9561",
+  "Initiator": "Bezirksbürgermeisterin",
+  "pubDate": "08.06.2021",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c0"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2692/VIII Neubenennung eines beratenden Mitgliedes in den Jugendhilfeausschuss",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9560",
+  "Initiator": "BzStR SchulSportJugFam",
+  "pubDate": "08.06.2021",
+  "Art": "Mitteilung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c1"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2691/VIII Berufung eines beratenden und stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9559",
+  "Initiator": "BzStR SchulSportJugFam",
+  "pubDate": "08.06.2021",
+  "Art": "Mitteilung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c2"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2690/VIII Planung und Errichtung der Beleuchtungsanlage Teterower Ring 71 beschleunigen",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9558",
+  "Initiator": "Ausschuss für Sport",
+  "pubDate": "08.06.2021",
+  "Art": "Ausschussantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c3"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2689/VIII Zu: Briefwahl und die Sicherheit des Wahlgeschehens",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9557",
+  "Initiator": "Fraktion der AfD",
+  "pubDate": "08.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c4"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2688/VIII Hinwirken auf das Wegfallen von Rad- und Fußwegen an TVO und B158",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9556",
+  "Initiator": "Fraktion der AfD",
+  "pubDate": "08.06.2021",
+  "Art": "Stellungnahme an den federführenden"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c5"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2687/VIII Kein Rückbau von Radwegen zugunsten von Grünflächen",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9555",
+  "Initiator": "Fraktion der AfD",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c6"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2686/VIII Wanderwege aus Haushaltsmittel reparieren – jetzt!",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9554",
+  "Initiator": "Fraktion der AfD",
+  "pubDate": "08.06.2021",
+  "Art": "Stellungnahme an den federführenden"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c7"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2685/VIII Zukunft des Biesdorfer Baggersees",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9553",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c8"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2684/VIII Zum bezirklichen Integrationsfond",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9552",
+  "Initiator": "Fraktion der AfD",
+  "pubDate": "08.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2c9"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2683/VIII Vorschläge von Bürgerinnen und Bürgern des Bezirkes Marzahn-Hellersdorf zum Haushalt 2022/2023 Bürgerhaushalt) hier: Vorschläge an Dritte (Kategorie C) (BA-Vorlage Nr. 1033/V)",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9551",
+  "Initiator": "BzBmin/BzStRin StadtGesPersFin",
+  "pubDate": "08.06.2021",
+  "Art": "Mitteilung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ca"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2682/VIII Zur Sommerschule in Marzahn-Hellersdorf",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9550",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "08.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2cb"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2681/VIII Rahmenkonzept \"Sozialplanung mit dem Schwerpunkt Alter(ung)\" (BA-Vorlage Nr. 1199/V)",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9549",
+  "Initiator": "BzStRin WeiKultSozFM",
+  "pubDate": "08.06.2021",
+  "Art": "Mitteilung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2cc"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2680/VIII Den Helene-Weigel-Platz mit Beteiligung der Anwohnenden aufwerten – Weil es für Familien wichtig ist!",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9548",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2cd"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2679/VIII Zu: Erinnerungstafel an die gefallenen sowjetischen Soldaten und zivilen Opfer des Kampfes um Berlin im Biesdorfer Schlosspark",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9547",
+  "Initiator": "Bezirksverordnete",
+  "pubDate": "08.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ce"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2678/VIII Zur Inbetriebnahme der Brunnen, Wasserspiele und Wasserspielplätzen",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9546",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2cf"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2677/VIII Zum Kino Sojus – Bürger/-innenanliegen ernstnehmen. Weil es für Familien wichtig ist!",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9545",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "08.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d0"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2676/VIII Radwege auf der Landsberger",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9544",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "08.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d1"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2675/VIII Zu: Ein Freibad in Marzahn-Hellersdorf",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9543",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "08.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d2"
+  },
+  "Scraped": true,
+  "District": "marzahn-hellersdorf",
+  "Headline": "2674/VIII Spielplatz im Bruno-Baum-Grünzug aufwerten – Weil es für Familien wichtig ist!",
+  "Link": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9542",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "08.06.2021",
+  "Art": "Stellungnahme an den federführenden"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d3"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3249/V über Zielsystem für das Kalenderjahr 2021 – Bericht über das Erreichen der Ziele (Er-folgskontrolle) zum 30. April 2021",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10802",
+  "Initiator": "Bezirksamt Mitte von Berlin",
+  "pubDate": "25.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d4"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3248/V über die Genehmigung der im Haushaltsjahr 2020 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen.",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10801",
+  "Initiator": "Bezirksamt Mitte von Berlin",
+  "pubDate": "25.06.2021",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d5"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3247/V Mindeststandards für nicht vertragsgebundene und nicht von der Berliner Unterbrin-gungsleitstelle (BUL) gelistete Unterkünfte zur Unterbringung obdachloser Menschen im Bezirk Mitte",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10800",
+  "Initiator": "Bezirksamt Mitte von Berlin",
+  "pubDate": "25.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d6"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3246/V Leitlinien Bürgerbeteiligung - Vorhabenliste 2021",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10799",
+  "Initiator": "Bezirksamt Mitte von Berlin",
+  "pubDate": "25.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d7"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3245/V Anstellung eines Bezirksbeauftragten für Menschen mit Behinderung beim Bezirksamt Mitte von Berlin",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10798",
+  "Initiator": "Bezirksamt Mitte von Berlin",
+  "pubDate": "24.06.2021",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d8"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3244/V Ausbildungsperspektiven für Jugendliche des Bezirks",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10797",
+  "Initiator": "Bezirksamt Mitte von Berlin",
+  "pubDate": "24.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2d9"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3243/V Kultursommer am Plötzensee ermöglichen",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10796",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "17.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2da"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3242/V Wieder ungebremste Feierszene Weinbergsweg/Rosenthaler Platz - Was ist mit der Nachtruhe der Anwohnenden?",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10795",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "17.06.2021",
+  "Art": "Dringlichkeitsanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2db"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3241/V Keine Kultur im Strandbad Plötzensee?",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10794",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "17.06.2021",
+  "Art": "Dringlichkeitsanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2dc"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3240/V Theaters im Monbijoupark 2021",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10793",
+  "Initiator": "Einzelverordneter Freitag",
+  "pubDate": "17.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2dd"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3239/V Kultur im Strandbad Plötzensee",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10792",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "17.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2de"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3238/V Gretchenfrage: Wie hält es das BA mit einem Monbijoutheater?",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10791",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "16.06.2021",
+  "Art": "Dringlichkeitsanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2df"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3237/V Eckwertebeschluss über die Aufteilung des Produktsummenbudgets, der Zuwei-sung für sonstige Transferausgaben und der Einnahmevorgaben in Vorbereitung des Doppelhaushaltsplans 2022/2023 und Einbringung einer Vorlage - zur Kennt-nisnahme - bei der Bezirksverordnetenversammlung",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10790",
+  "Initiator": "Bezirksamt Mitte von Berlin",
+  "pubDate": "15.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e0"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3236/V Plansche im Schillerpark",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10789",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e1"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3235/V Feststellung der außergewöhnlichen Notlage nach GO",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10788",
+  "Initiator": "Vorsteher der BVV",
+  "pubDate": "15.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e2"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3234/V Vorkaufsrecht der Alten Schönhauser Straße 26",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10787",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "15.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e3"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3233/V „Köpi“ & Wagenplatz retten",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10786",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen, SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e4"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3232/V Bezirksamt bringt Kultur in Not",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10785",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "15.06.2021",
+  "Art": "Dringlichkeitsanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e5"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3231/V Saubere Stadt auch in Mitte?",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10784",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e6"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3230/V Planschen – alle Jahre wieder",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10783",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e7"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3229/V Gorilla-Lager im Kiez? Probleme zwischen Anwohnenden und Lieferdiensten in Mitte",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10782",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e8"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3228/V Unterstützt das Bezirksamt die Gastronomie in der Hauptstadtmitte?",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10781",
+  "Initiator": "Fraktion der FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2e9"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3227/V Krisengipfel Bürgeramt",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10780",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ea"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3226/V Prinzengarten: Noch ein Urban Gardening Projekt auf Flächensuche?",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10779",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2eb"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3225/V Bearbeitung von Anwohnerparkausweisen",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10778",
+  "Initiator": "Fraktion der FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ec"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3224/V Kontrollen von Spätis",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10777",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ed"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3223/V Sicherheit im Rathaus",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10776",
+  "Initiator": "Fraktion DIE LINKE",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ee"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3222/V Der Sommer wird gut? Wie steht es um Planschen und Wasserspielplätze im Bezirk?",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10775",
+  "Initiator": "Fraktion der SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ef"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3221/V Reaktivierung der Liegenschaft Putbusser Straße 12 als Schulstandort (II): Warum ist praktisch nichts passiert seit der BVV-Beschlussfassung DS 2050/V",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10774",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f0"
+  },
+  "Scraped": true,
+  "District": "mitte",
+  "Headline": "3220/V Tourismus nach der Corona-Pandemie",
+  "Link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10773",
+  "Initiator": "Fraktion der FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f1"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3412/XX Sanierung der Landesbrunnen in Reinickendorf",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9423",
+  "Initiator": "Budweg, Angela - SPD-Fraktion",
+  "pubDate": "30.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f2"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3411/XX Sauberkeit und Ordnung auf dem KaBoN-Gelände endlich durchsetzen",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9422",
+  "Initiator": "CDU-Fraktion - Wohlert, Björn / Siesmayer, Tobias",
+  "pubDate": "30.06.2021",
+  "Art": "Empfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f3"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3375/XX-01 14 km Radverkehrswege?",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9420",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "29.06.2021",
+  "Art": "Kleine Anfrage - Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f4"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3384/XX-01 Kontrollen in Reinickendorfer Testzentren",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9419",
+  "Initiator": "Bezirksamt - Abt. Wirtschaft, Gesundheit, Integration und Soziales",
+  "pubDate": "28.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f5"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3380/XX-01 Kontrolle von Corona-Teststellen",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9418",
+  "Initiator": "Bezirksamt - Abt. Wirtschaft, Gesundheit, Integration und Soziales",
+  "pubDate": "28.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f6"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3410/XX Billigung des BA-Beschlusses zur Planreifeerklärung nach § 33 BauGB zum Bebauungsplan 12-54 vom 22.06.2021",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9417",
+  "Initiator": "Ausschuss für Stadtplanung, -entwicklung, Denkmalschutz, Umwelt und Natur",
+  "pubDate": "24.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f7"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3409/XX Modellprojekte Fußverkehr",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9416",
+  "Initiator": "Jahn, David - FDP-Fraktion",
+  "pubDate": "23.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f8"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3408/XX Bürgeramt Heiligensee",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9415",
+  "Initiator": "Skrobek-Angerer, Claudia / Schmidt, Sylvia / Siesmayer, Tobias - CDU-Fraktion",
+  "pubDate": "23.06.2021",
+  "Art": "Ersuchen"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2f9"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "2509/XX-01 Open Data Strategie für Reinickendorf",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9414",
+  "Initiator": "Bezirksamt - Abt. Finanzen, Personal, Stadtentwicklung und Umwelt",
+  "pubDate": "23.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2fa"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3407/XX Realitätsbezogene Planung von Kurzzeitparkplätzen im Schumacher Quartier",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9413",
+  "Initiator": "Muschner, Harald / Siesmayer, Tobias - CDU-Fraktion",
+  "pubDate": "22.06.2021",
+  "Art": "Empfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2fb"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3406/XX Beschilderung im Tegeler Forst",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9412",
+  "Initiator": "Huhn, Gordon / Siesmayer, Tobias - CDU-Fraktion",
+  "pubDate": "22.06.2021",
+  "Art": "Empfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2fc"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3369/XX-01 Kontrolle von Ferienwohnungen",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9411",
+  "Initiator": "Bezirksamt - Abt. Bürgerdienste und Ordnungsangelegenheiten",
+  "pubDate": "22.06.2021",
+  "Art": "Kleine Anfrage - Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2fd"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3386/XX-01 Falschparken im Erpelgrund",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9409",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "21.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2fe"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3368/XX-01 Wilde Plakatwerbung durch Enteignungsinitiative",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9410",
+  "Initiator": "Bezirksamt - Abt. Bürgerdienste und Ordnungsangelegenheiten",
+  "pubDate": "21.06.2021",
+  "Art": "Kleine Anfrage - Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a2ff"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3405/XX Schäden am Humboldt-Denkmal",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9407",
+  "Initiator": "Dirk Steffel - fraktionslos",
+  "pubDate": "17.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a300"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3391/XX-01 Pläne für Pop-Up-Radweg",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9406",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a301"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3390/XX-01 \"Photovoltaik auf Schuldächern - Stand der Umsetzung\"",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9404",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a302"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3382/XX-01 Ampelschaltung Hermsdorfer Damm / Heinsestraße",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9405",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a303"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3381/XX-01 Abwasserleitungen für das Strandbad Tegel",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9403",
+  "Initiator": "Bezirksamt - Abt. Jugend, Familie, Schule und Sport",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a304"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3354/XX-01 Fahrrad-Stellplätze an Reinickendorfer Bahnhöfen",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9408",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "17.06.2021",
+  "Art": "Kleine Anfrage - Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a305"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "2818/XX-01 Verschönerter Zugang zum S-Bahnhof Wittenau",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9402",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "17.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a306"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3392/XX-01 Impfstatus der BA Mitarbeitenden",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9401",
+  "Initiator": "Bezirksamt - Abt. Finanzen, Personal, Stadtentwicklung und Umwelt",
+  "pubDate": "16.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a307"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3387/XX-01 Schutz vor Hochwasser/Starkregen",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9400",
+  "Initiator": "Bezirksamt - Abt. Finanzen, Personal, Stadtentwicklung und Umwelt",
+  "pubDate": "16.06.2021",
+  "Art": "Mündliche Anfrage - schriftliche Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a308"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3377/XX-01 Veränderungen auf dem KaBoN-Gelände",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9399",
+  "Initiator": "Bezirksamt - Abt. Finanzen, Personal, Stadtentwicklung und Umwelt",
+  "pubDate": "16.06.2021",
+  "Art": "Einwohneranfrage - schriftliche Beantwortung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a309"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3346/XX-01 Umsetzung des BVV-Beschlusses für Fahrradstellplätze am S-Heiligensee",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9398",
+  "Initiator": "Bezirksamt - Abt. Bauen, Bildung und Kultur",
+  "pubDate": "15.06.2021",
+  "Art": "Kleine Anfrage - Antwort"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a30a"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3404/XX Fußgängerüberweg über die Veitstraße zur Schulwegsicherung",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9397",
+  "Initiator": "Käber, Marco / Teller, Klaus - SPD-Fraktion",
+  "pubDate": "14.06.2021",
+  "Art": "Empfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a30b"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3403/XX Zustand des Kienhorstparks",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9396",
+  "Initiator": "Käber, Marco - SPD-Fraktion",
+  "pubDate": "14.06.2021",
+  "Art": "Ersuchen"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a30c"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3076/XX-01 Repair / Re-use - Möglichkeiten auf Internetseite (besser) publik machen",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9394",
+  "Initiator": "Bezirksamt - Abt. Finanzen, Personal, Stadtentwicklung und Umwelt",
+  "pubDate": "10.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a30d"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3402/XX Jährlicher Erfahrungsbericht der Patientenfürsprecherin im Medical Park - Fachklinik für Neurologie und Orthopädie für das Jahr 2020",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9390",
+  "Initiator": "Vorsteherin - Kerstin Köppen",
+  "pubDate": "09.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a30e"
+  },
+  "Scraped": true,
+  "District": "reinickendorf",
+  "Headline": "3401/XX Beschluss über eine soziale Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet \"Scharnweberstraße/Klixstraße\" im Bezirk Reinickendorf von Berlin, Ortsteil Reinickendorf",
+  "Link": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9389",
+  "Initiator": "Bezirksamt - Abt. Finanzen, Personal, Stadtentwicklung und Umwelt",
+  "pubDate": "09.06.2021",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a30f"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1551 Information zum Jahresabschlussergebnis 2020 des Bezirks Pankow von Berlin",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5901",
+  "Initiator": "Bezirksamt",
+  "pubDate": "",
+  "Art": "Vorlage zur Kenntnisnahme § 15 BezVG"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a310"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1550 Bebauungsplan 3-34 für Teilflächen des Grundstücks Mühlenstraße 8, Neue Schönholzer Straße 32-36, Breite Straße 24A, 25, 26 sowie die Grundstücke Mühlenstraße 10, 11 im Bezirk Pankow, Ortsteil Pankow",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5900",
+  "Initiator": "Bezirksamt",
+  "pubDate": "",
+  "Art": "Vorlage zur Kenntnisnahme § 15 BezVG"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a311"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1549 Wie weiter mit dem Logistikzentrum der Gorillas Technologies GmbH?",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5899",
+  "Initiator": "BV Maximilian Schirmer (Linksfraktion)",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a312"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1548 U10 jetzt! U-Bahn vom Alexanderplatz über Weißensee und Blankenburg nach Buch planen und bauen",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5898",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "17.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a313"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1547 Rettungseinsätze ermöglichen: Ab- und Zufahrt der Feuerwache in der Pasewalker Straße sicherstellen",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5897",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a314"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1546 Lebenswerte Straßenräume in Modellprojekt erproben",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5896",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a315"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1545 Sicher über die Hauptstraße in Rosenthal",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5895",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a316"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1544 Keine Schließung von Pankower Sportanlagen",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5894",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a317"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1543 Skateranlage im Bürgerpark freigeben",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5893",
+  "Initiator": "Fraktion Bündnis 90/ Die Grünen, Linksfraktion",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a318"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1542 Schäden durch LKW- und Logistikverkehre am Rosenthaler Anger reduzieren",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5892",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "17.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a319"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1541 Für Natur, Menschen und Weidetiere - Wolfsmanagement koordinieren!",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5891",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "17.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a31a"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1540 Späterer Eintritt in den Ruhestand des stellvertretenden Bezirksbürgermeisters und Bezirksstadtrats Vollrad Kuhn",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5890",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a31b"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1539 Zufahrt für Einsatz- und Rettungsfahrzeuge über die Straße „Am Nordgraben“ in das Siedlungsdreieck \"Frohsinn“ sichern",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5889",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a31c"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1538 Sicherung des Kulturstandortes Kulturbrauerei",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5888",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a31d"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1537 Pankower Mobilitätsbericht weiter umsetzen: Machbarkeitsstudie zur Parkraumbewirtschaftung 2.0",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5887",
+  "Initiator": "BV Dr. Thomas Enge (Gruppe der FDP)",
+  "pubDate": "17.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a31e"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1536 Einrichtung von Staatlichen Europa-Schulen (SESB) in Pankow",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5886",
+  "Initiator": "Fraktion Bündnis 90/Die Grünen",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a31f"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1535 Verkehrsberuhigung und Schulwegsicherheit im Nesselweg jetzt!",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5885",
+  "Initiator": "BV Johannes Kraft und BV Denise Bittner (Fraktion der CDU) für Bürger_innen",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a320"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1534 Behutsame Entwicklung der Elisabeth Aue",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5884",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "17.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a321"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1533 Karow ist schön – und soll es auch bleiben; Aufhebung des Bezirksamtsbeschlusses zur Drucksache VIII-0927",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5883",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a322"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1532 Aufhebung des Beschlusses zur Drucksache VIII-1356 „Parkverbot in der Frundsbergstraße“",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5882",
+  "Initiator": "Fraktion der CDU",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a323"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1531 Änderung Terminplan - Aufhebung der zusätzlichen Sitzungstermine zu den Haushaltsberatungen 2022/2023",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5881",
+  "Initiator": "Ausschuss für Finanzen, Personal, Immobilien und Verwaltungsmodernisierung",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a324"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1530 Barrierefreie Umgestaltung von Bushaltestellen im Bezirk Pankow",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5880",
+  "Initiator": "Fraktion der SPD, Linksfraktion",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a325"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1529 Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Danziger Straße Ost“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5879",
+  "Initiator": "Bezirksamt",
+  "pubDate": "",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a326"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1528 Benennungsabsicht für eine Privatstraße im Ortsteil Pankow in „Paule-Panke-Straße“",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5878",
+  "Initiator": "Bezirksamt",
+  "pubDate": "17.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme § 15 BezVG"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a327"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1527 Festsetzung der Eckwerte für die Aufstellung des Doppelhaushaltsplanes 2022/2023 des Bezirks Pankow von Berlin",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5877",
+  "Initiator": "Bezirksamt",
+  "pubDate": "17.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme § 15 BezVG"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a328"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1526 Nachweis der im Haushaltsjahr 2020 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5876",
+  "Initiator": "Bezirksamt",
+  "pubDate": "",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a329"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1525 Mehr legale Graffiti-Flächen",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5875",
+  "Initiator": "Linksfraktion",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a32a"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1524 Die Mühe sollten wir uns nicht schenken: Das Aufstellen von Schenkschränken im öffentlichen Raum ermöglichen und vereinfachen",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5874",
+  "Initiator": "Linksfraktion",
+  "pubDate": "",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a32b"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1523 Grünflächenpflege Lindenberger Weg Ecke Karower Damm",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5873",
+  "Initiator": "Fraktion der AfD",
+  "pubDate": "17.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a32c"
+  },
+  "Scraped": true,
+  "District": "pankow",
+  "Headline": "VIII-1522 Neuausrichtung der Drucksache VIII-0502- Robert-Rössle- Ganzheitliche Betrachtungsweise und Anwohnerwillen beachten!",
+  "Link": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5872",
+  "Initiator": "BV Tobias Thieme (fraktionslos)",
+  "pubDate": "17.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a32d"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2394/XX Shuttle-Betrieb Groß-Glienicker See bei Sperrung der Uferpromenade",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10968",
+  "Initiator": "SPD",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a32e"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2393/XX Education Point Spandau erhalten",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10967",
+  "Initiator": "CDU",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a32f"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2392/XX Erreichbarkeit der Website des Bezirksamts",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10966",
+  "Initiator": "Linksfraktion",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a330"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2391/XX Planungssicherheit für die Aktion “Weihnachten für Alle” schaffen",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10965",
+  "Initiator": "Bü'90/Die Grünen+CDU",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a331"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2390/XX Ballsporthalle der Bruno-Gehrke-Halle am Wochenende",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10964",
+  "Initiator": "Bü'90/Die Grünen+CDU",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a332"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2189/XX Entschärfung der Abbiegesituation Nonnendammallee/Boltonstraße",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10759",
+  "Initiator": "SPD",
+  "pubDate": "16.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a333"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2246/XX Niederländisches Modell für Kreuzungsverkehr",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10816",
+  "Initiator": "Linksfraktion",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a334"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2239/XX Buskap an der Haltestelle Brunsbütteler Damm/Ruhlebener Straße",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10809",
+  "Initiator": "Bündnis'90/Die Grünen",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a335"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2235/XX Unzumutbare Verkehrswege in Kladow sanieren II",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10805",
+  "Initiator": "AfD",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a336"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2234/XX Salt & Sugar Zuwegung sichern",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10804",
+  "Initiator": "AfD",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a337"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2177/XX Wir Spandauer für unsere Kinder sicherer! - Neue Querungshilfe Am Kiesteich!",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10747",
+  "Initiator": "FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a338"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2176/XX Wir machen Spandauer Ampeln intelligenter! Auch, wenn die Zuständigen nicht handeln!",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10746",
+  "Initiator": "FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a339"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2161/XX Querungshilfe am Aalemannufer",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10731",
+  "Initiator": "Linksfraktion",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a33a"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2154/XX Neubauquartier Paulsternstrasse - Querungshilfe!",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10724",
+  "Initiator": "FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a33b"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2389/XX Nachwahl einer Bürgerdeputierten",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10963",
+  "Initiator": "CDU",
+  "pubDate": "11.06.2021",
+  "Art": "Antrag - zur Wahl -"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a33c"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2387/XX Nachwahl eines stellvertretenden Bürgerdeputierten",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10956",
+  "Initiator": "CDU",
+  "pubDate": "11.06.2021",
+  "Art": "Antrag - zur Wahl -"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a33d"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2388/XX Nachwahl eines Bürgerdeputierten",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10957",
+  "Initiator": "CDU",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag - zur Wahl -"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a33e"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2386/XX Nachwahl einer stellvertretenden Bürgerdeputierten",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10955",
+  "Initiator": "CDU",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag - zur Wahl -"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a33f"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2385/XX Wir machen Spandau lebensfreundlicher - Veranstaltungen in 2021",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10954",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a340"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2384/XX Wir sorgen für nachhaltige Bildung - Nachhaltigkeit Schulneubauten im Bezirk",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10953",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a341"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2383/XX Wir machen Spandauer sauberer für die Menschen! Der Taubendreck ist noch immer da! Eine Zumutung für die Menschen und für das Image unseres Bezirkes!",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10952",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a342"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2382/XX Wie lief die Schwerpunktimpfungen gegen Corona in der Heerstraße Nord?",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10951",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a343"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2381/XX Wir machen Spandau vielfältiger! Nicht nur ans Wohnen denken",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10950",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a344"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2380/XX Staaken nicht abhängen – Regionalbahnen weiter in Albrechtshof halten lassen",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10949",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a345"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2379/XX Wir sorgen für Kultur in der Bildung – Zusammenarbeit zwischen Schulen und Kulturszene stärken",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10948",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a346"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2378/XX Jährlicher Wohnungs- und Gewerbeneubaubericht",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10947",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a347"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2377/XX Leerstände Einzelhandelsflächen im Bezirk erfassen und handeln",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10946",
+  "Initiator": "FDP",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a348"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2376/XX Stadtumbau in Staaken/Heerstraße Nord – Sachstand",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10945",
+  "Initiator": "Linksfraktion",
+  "pubDate": "10.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a349"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2375/XX Insolvenzen und Schuldnerberatung",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10944",
+  "Initiator": "Linksfraktion",
+  "pubDate": "10.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a34a"
+  },
+  "Scraped": true,
+  "District": "spandau",
+  "Headline": "2374/XX Einsatz von Sicherheitsfirmen für das Bezirksamt",
+  "Link": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10943",
+  "Initiator": "Linksfraktion",
+  "pubDate": "10.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a34b"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2131/VIII Vorhabenberzogener Bebauungsplan 11-115 VE Behördenbeteiligung; Arbeitstitel: Freienwalder Straße 12",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8925",
+  "Initiator": "Bezirksamt",
+  "pubDate": "29.08.2022",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a34c"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2233/VIII Fragen zur Situation des Tuberkulosezentrums in Lichtenberg (TBZ)",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9027",
+  "Initiator": "Fraktion AfD",
+  "pubDate": "19.08.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a34d"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2225/VIII Keine Verleihung kommunaler Preise an politische Mandatsträger oder deren Angestellte bzw. Gegner demokratischer politischerProzesse im Bezirk Lichtenberg – Aberkennung des Frauenpreises 2021 an Frau Engelmann (LINKE.)",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9019",
+  "Initiator": "Fraktion AfD",
+  "pubDate": "19.08.2021",
+  "Art": "Antrag zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a34e"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2107/VIII Öffentlichen Sport an der Trabrennbahn ermöglichen",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8901",
+  "Initiator": "Fraktion CDU",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a34f"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2078/VIII Grüne Höfe im Nibelungenviertel planungsrechtlich sichern",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8872",
+  "Initiator": "Fraktion DIE LINKE.",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a350"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2053/VIII Frühzeitige Information über geplante Baumfällungen",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8847",
+  "Initiator": "Fraktion DIE LINKE.",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a351"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2052/VIII Haushaltstitel: \"Präventionsbudget\" schaffen",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8846",
+  "Initiator": "Fraktion SPD",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a352"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2051/VIII Finanzielle Sicherung von Alpha-Bündnis",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8845",
+  "Initiator": "Fraktion SPD",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a353"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2045/VIII Flächennutzungsplan für die Anlage Falkenhöhe 1932 ändern",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8839",
+  "Initiator": "Fraktion CDU",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a354"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2025/VIII Spreeufer in Lichtenberg und Treptow-Köpenick gezielt entwickeln",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8819",
+  "Initiator": "Fraktion CDU",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a355"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2020/VIII Hundetoilette in der Rosenfelder Straße",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8814",
+  "Initiator": "Fraktion DIE LINKE.",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a356"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/1904/VIII Verkehrskonzepte als Planungsgrundlage für das Bezirksamt",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8698",
+  "Initiator": "BVO Bündnis 90/Die Grünen",
+  "pubDate": "19.08.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a357"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2209/VIII Bebauungsplan 11-47ba – Erneute eingeschränkte öffentliche Auslegung und erneute eingeschränkte Behördenbeteiligung in Folge des Ergebnisses der Rechtsprüfung; Arbeitstitel: Parkstadt Karlshorst",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9003",
+  "Initiator": "Bezirksamt",
+  "pubDate": "18.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a358"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2232/VIII Bebauungsplan 11-47ba - Ergebnis der erneuten Rechtsprüfung; Arbeitstitel: Parkstadt Karlshorst",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9026",
+  "Initiator": "Bezirksamt",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a359"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2231/VIII Vorhabenbezogener Bebauungsplan 11-118 VE – öffentliche Auslegung; Arbeitstitel: Landsberger Allee 341/343",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9025",
+  "Initiator": "Bezirksamt",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a35a"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2230/VIII Garagen Zwieseler Straße",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9024",
+  "Initiator": "Fraktion DIE LINKE.",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a35b"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2229/VIII Schulplatzportal und Schulplatztauschbörse einrichten",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9023",
+  "Initiator": "Schule und Sport",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a35c"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2228/VIII Zeitgemäße Aufnahmekriterien für weiterführende Schulen entwickeln",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9022",
+  "Initiator": "Schule und Sport",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a35d"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2227/VIII Schulplatzgipfel für Berlin",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9021",
+  "Initiator": "Schule und Sport",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a35e"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2226/VIII Freier Zugang zu Menstruationsartikeln in Lichtenberg",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9020",
+  "Initiator": "Gesundheit sowie Gleichstellung und Inklusion",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a35f"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2224/VIII Verkehrssituation Friedrichsteiner Straße, DS/1409/VIII",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9018",
+  "Initiator": "Fraktion SPD",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a360"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2223/VIII Bänke am Bahnhof Lichtenberg",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9017",
+  "Initiator": "Fraktion SPD",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a361"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2222/VIII Draussenstadt",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9016",
+  "Initiator": "Fraktion DIE LINKE.",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a362"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2221/VIII 80. Jahrestag",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9015",
+  "Initiator": "Fraktion DIE LINKE.",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a363"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2220/VIII Runder Tisch rockhouse.berlin",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9014",
+  "Initiator": "Fraktion SPD",
+  "pubDate": "17.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a364"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2219/VIII Rathauspark richtig gegen Vermüllung ausstatten - familienfreundliches Spielen und Erholen ohne Müllberge ermöglichen",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9013",
+  "Initiator": "Fraktion SPD",
+  "pubDate": "17.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a365"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2218/VIII Angekündigte Baumarbeiten in der Sackgasse zur Dorfstraße 19a in Wartenberg",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9012",
+  "Initiator": "Fraktion DIE LINKE.",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a366"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2217/VIII Mittelnutzung Wartenberger Frühlingstag und des Storchenfests",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9011",
+  "Initiator": "Haushalt und Personal",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a367"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2216/VIII Eckwertebeschluss über die Aufteilung der Globalsummenzuweisung 2022/23",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9010",
+  "Initiator": "Bezirksamt",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a368"
+  },
+  "Scraped": true,
+  "District": "lichtenberg",
+  "Headline": "DS/2215/VIII Soziale Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet „Fanningerstraße“ im Bezirk Lichtenberg von Berlin",
+  "Link": "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9009",
+  "Initiator": "Bezirksamt",
+  "pubDate": "17.06.2021",
+  "Art": "Dringliche Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f26446dca88a62a369"
+  },
+  "Scraped": false,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2167/V Mündliche Anfragen II - spontane Fragestunde",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10092",
+  "Initiator": "alle Fraktionen",
+  "pubDate": "17.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a36a"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2166/V Wir dulden keine Gewalt im Samariterkiez!",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10091",
+  "Initiator": "DIE LINKE/B'90 Die Grünen",
+  "pubDate": "16.06.2021",
+  "Art": "Resolution"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a36b"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2165/V Der alte Tierpfleger muss bleiben – und das Bezirksamt sich bewegen",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10090",
+  "Initiator": "CDU",
+  "pubDate": "16.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a36c"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2164/V Wir dulden keine linksextreme Gewalt im Samariterkiez!",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10089",
+  "Initiator": "FDP",
+  "pubDate": "16.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a36d"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2163/V Immobiliendeals in Friedrichshain-Kreuzberg | WoHo – Das Wohnhochhaus | Teil 2",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10088",
+  "Initiator": "CDU/FDP",
+  "pubDate": "16.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a36e"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2162/V Ein lebenswerter Kotti für alle II",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10087",
+  "Initiator": "FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a36f"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2161/V Brandschutz Rigaer Straße 94",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10086",
+  "Initiator": "FDP",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a370"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2160/V Ausübung des Vorkaufsrechts weiter ermöglichen – auch für den Mehringdamm 49 und weitere Hausgemeinschaften",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10085",
+  "Initiator": "B'90/Die Grünen",
+  "pubDate": "15.06.2021",
+  "Art": "Resolution"
+},{
+  "_id": {
+    "$oid": "60de15f46446dca88a62a371"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2159/V Urbane Mitte",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10084",
+  "Initiator": "Die PARTEI",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a372"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2158/V Sachstand Gesundheitszentrum Reichenberger Str. 176",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10083",
+  "Initiator": "SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a373"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2157/V Welche Erkenntnisse haben die Suchthilfekoordinatorin und das angekündigte Fachgespräch zum Marheinekeplatz gebracht?",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10082",
+  "Initiator": "SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a374"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2156/V Umbenennung des Kreuznerobergers",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10081",
+  "Initiator": "SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a375"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2155/V Tagesstätten für Obdachlose im Bezirk",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10080",
+  "Initiator": "SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a376"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2154/V Sachstand Handlungskonzept zur Sicherheit am Marheinekeplatz (DS/1769/V)",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10079",
+  "Initiator": "SPD",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a377"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2153/V Einkauf von Navigationsdaten durch das Bezirksamt",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10078",
+  "Initiator": "DIE LINKE",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a378"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2152/V Parkraumbewirtschaftung im Ortsteil Kreuzberg",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10077",
+  "Initiator": "DIE LINKE",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a379"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2151/V Hygienemaßnahmen im Prinzenbad",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10076",
+  "Initiator": "B'90/Die Grünen",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a37a"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2150/V Gigabit-Strategie: Wann kommen die letzten Meter Glasfaser bis ins Rathaus?",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10075",
+  "Initiator": "B'90/Die Grünen",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a37b"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2149/V Ausbau des Ganztagsbetriebes an allen Grundschulen des Bezirks",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10074",
+  "Initiator": "B'90/Die Grünen",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a37c"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2148/V Verkauf der Reichenberger Straße 3 und 4",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10073",
+  "Initiator": "B'90/Die Grünen",
+  "pubDate": "15.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a37d"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2147/V Erklärung der BVV zu Silvio Meier und Silvio-Meier-Preis",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10072",
+  "Initiator": "Vorstand",
+  "pubDate": "14.06.2021",
+  "Art": "Resolution"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a37e"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2146/V „Enuu“ in Berlin – und die Behinderung des Fuß- und Radverkehrs",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10071",
+  "Initiator": "B'90/Die Grünen",
+  "pubDate": "14.06.2021",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a37f"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2145/V EA156 - Energiewendegesetz im Bezirk",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10070",
+  "Initiator": "Einwohner*in",
+  "pubDate": "14.06.2021",
+  "Art": "Einwohner*innenanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a380"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2144/V EA155 - Berücksichtigung der Klimanotlage auf Bezirksebene im Zusammenhang mit Bebauungsplanverfahren",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10069",
+  "Initiator": "Einwohner*in",
+  "pubDate": "14.06.2021",
+  "Art": "Einwohner*innenanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a381"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2143/V EA154 - Büro- oder Gewerbeimmobilien im Entwicklungsgebiet Wriezener Bahnhof und angrenzenden Planungsräumen",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10068",
+  "Initiator": "Einwohner*in",
+  "pubDate": "14.06.2021",
+  "Art": "Einwohner*innenanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a382"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2142/V EA153 - Immobiliengeschäfte der Markthalle Neun Betreiber",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10067",
+  "Initiator": "Einwohner*in",
+  "pubDate": "14.06.2021",
+  "Art": "Einwohner*innenanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a383"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2141/V EA152 - Studie zu Aushandlungsprozessen zivilgesellschaftlicher Akteure mit Verwaltungen zu Thema Umwelt",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10066",
+  "Initiator": "Einwohner*in",
+  "pubDate": "14.06.2021",
+  "Art": "Einwohner*innenanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a384"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2140/V EA151 - Der Lausitzer Platz wird zur Fußgänger*innenzone",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10065",
+  "Initiator": "Einwohner*in",
+  "pubDate": "14.06.2021",
+  "Art": "Einwohner*innenanfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a385"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/2139/V Test-Antrag",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10064",
+  "Initiator": "",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a386"
+  },
+  "Scraped": true,
+  "District": "friedrichshain-kreuzberg",
+  "Headline": "DS/0678-01/V Benennung einer Straße nach Audre Lorde",
+  "Link": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10063",
+  "Initiator": "Ausschuss QueerInk",
+  "pubDate": "10.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a387"
+  },
+  "Scraped": false,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1426 Konsensliste",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6944",
+  "Initiator": "ÄR",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a388"
+  },
+  "Scraped": false,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1425 Mündliche Anfragen",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6943",
+  "Initiator": "Bezirksverordnete",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a389"
+  },
+  "Scraped": false,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1424 Bürgerfragestunde",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6942",
+  "Initiator": "Bürgerinnen und Bürger",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a38a"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1423 Temporäre Standortsicherung der Rampe unter der Minna-Todenhagen-Brücke",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6941",
+  "Initiator": "JHA",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a38b"
+  },
+  "Scraped": false,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1422 Überprüfung der Maskenpflicht für die Bölschestraße",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6940",
+  "Initiator": "SPD, DIE LINKE, CDU",
+  "pubDate": "Dunja Wolff",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a38c"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1421 Konsensliste",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6939",
+  "Initiator": "BzVV",
+  "pubDate": "",
+  "Art": "11.06.2021"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a38d"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1420 Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 3",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6938",
+  "Initiator": "BzVV",
+  "pubDate": "",
+  "Art": "10.06.2021"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a38e"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1419 Nachverdichtung der \"Stadt und Land\" in Plänterwald",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6937",
+  "Initiator": "AfD",
+  "pubDate": "1. Denis Henkel\n2. Andrea Lorenz",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a38f"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1418 Nachverdichtungen in Treptow-Köpenick",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6936",
+  "Initiator": "B'90Grüne",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a390"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1417 Parksituation an der Odernheimer Straße in Müggelheim",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6935",
+  "Initiator": "AfD",
+  "pubDate": "Denis Henkel",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a391"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1416 Informationen über Sanierung des Strandbades",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6934",
+  "Initiator": "SPD, DIE LINKE",
+  "pubDate": "Paul Bahlmann",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a392"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1415 Reaktivierung Spreetunnel Treptow-Stralau prüfen",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6933",
+  "Initiator": "Einz.-BzV (FDP)",
+  "pubDate": "1. Joachim Schmidt\n2. Ralf Henze",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a393"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1414 Kreuzung Schulzendorfer Straße / Dahmestraße sicherer gestalten",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6932",
+  "Initiator": "B'90Grüne",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a394"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1413 Booksharing in Treptow-Köpenick: Mehr Bücherschränke für den Bezirk",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6931",
+  "Initiator": "CDU",
+  "pubDate": "Dustin Hoffmann",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a395"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1412 Schotter- und Steingärten bei Bebauungen verhindern",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6930",
+  "Initiator": "B'90Grüne",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a396"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1411 Bezirksamt als fahrradfreundlicher Arbeitgeber",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6929",
+  "Initiator": "B'90Grüne",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a397"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1410 Demonstrationen möglichst aus dem Gartendenkmal Treptower Park / Kriegsgräberstätte \"Sowjetisches Ehrenmal\" verlagern",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6928",
+  "Initiator": "SPD",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a398"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1409 Begegnungszentrum im Kölner Viertel erhalten",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6927",
+  "Initiator": "CDU",
+  "pubDate": "Martin Hinz",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a399"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1408 Sicher und mit Spaß in Treptow und Köpenick skaten",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6926",
+  "Initiator": "DIE LINKE, SPD",
+  "pubDate": "Monika Belz",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a39a"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1407 Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplans 2022/2023",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6925",
+  "Initiator": "BA",
+  "pubDate": "BA, PersFinWiImm",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a39b"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1406 Fehlendes Schulschwimmen ausgleichen",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6924",
+  "Initiator": "Einz.-BzV (FDP)",
+  "pubDate": "1. Joachim Schmidt\n2. Ralf Henze",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a39c"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1405 Rechtsabbiegeampel von der Müggelheimer Straße stadtauswärts rechts in die Wendenschloßstraße",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6923",
+  "Initiator": "CDU",
+  "pubDate": "Ralph Korbus",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a39d"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1404 Kunst im öffentlichen Raum in Schöneweide erhalten",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6922",
+  "Initiator": "AfD",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a39e"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1403 Innovationspark Wuhlheide und Technologie- und Gründerzentrum Schöneweide stärken und weiterentwickeln",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6921",
+  "Initiator": "DIE LINKE",
+  "pubDate": "Petra Reichardt",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a39f"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1402 Sicher umsteigen am S-Bahnhof Friedrichshagen",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6920",
+  "Initiator": "SPD, DIE LINKE, CDU, B'90Grüne",
+  "pubDate": "Marc Oliver Ram",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a0"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1401 Sondermittel für den \"Behindertenverein Köpenick e. V.\" (SM 21-14)",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6919",
+  "Initiator": "BzVV",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a1"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1400 Sondermittel für Herrn Ralph Splettstößer (SM 21-13)",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6918",
+  "Initiator": "BzVV",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a2"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1399 Sondermittel für den Verein \"Tennisclub Grün-Weiß Rahnsdorf e. V.\" (SM 21-12)",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6917",
+  "Initiator": "BzVV",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a3"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1398 Sondermittel für den Verein \"Köpenicker Hockey-Union e. V.\" (SM 21-11)",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6916",
+  "Initiator": "BzVV",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a4"
+  },
+  "Scraped": true,
+  "District": "treptow-koepenick",
+  "Headline": "VIII/1397 Sondermittel für den Verein \"KunstHofKöpenick e. V.\" (SM 21-09)",
+  "Link": "https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6915",
+  "Initiator": "BzVV",
+  "pubDate": "",
+  "Art": ""
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a5"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2382/XX Rathausvorplatz verdreckt",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7723",
+  "Initiator": "CDU",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a6"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2381/XX Straßenpumpen/Notwasserbrunnen – Stand der Reparatur/Instandsetzung",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7722",
+  "Initiator": "Grüne",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a7"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2380/XX Beseitigung von Mähgutrückständen (Grannen)",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7721",
+  "Initiator": "CDU",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a8"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2379/XX Wahlteilhabe für Blinde und sehbehinderte Menschen",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7720",
+  "Initiator": "Grüne",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3a9"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2378/XX „Teilhabe am Arbeitsmarkt“ in Neukölln",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7719",
+  "Initiator": "LINKE",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3aa"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2377/XX Minigolfplatz",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7718",
+  "Initiator": "CDU",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ab"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2376/XX Flächeneinzäunungen „hinter Neue Welt/Bauhaus“",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7716",
+  "Initiator": "Grüne",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ac"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2375/XX Mülleimer Gerlinger Straße",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7717",
+  "Initiator": "CDU",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ad"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2374/XX Kooperation des Bezirksamts mit linksradikalen wie der „Extinction Rebellion“",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7715",
+  "Initiator": "AfD-Neukölln",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ae"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2373/XX Schulabgänger:innen in Not",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7714",
+  "Initiator": "LINKE",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3af"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2372/XX Sichere Überquerung der Buschkrugallee",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7713",
+  "Initiator": "Grüne",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b0"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2371/XX Schulbausanierungen in Neukölln der letzten Jahre",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7712",
+  "Initiator": "SPD",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b1"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2370/XX Mobile Bürgerämter in Rudow und Buckow",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7711",
+  "Initiator": "CDU",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b2"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2369/XX Mehrmittel für Tagesreinigung",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7710",
+  "Initiator": "SPD",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b3"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2368/XX 250.000 Termine stauen sich in den Bürgerämtern – Innensenator: Bezirksämter sind unfähig Bürgerämter zu leiten",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7709",
+  "Initiator": "AfD-Neukölln",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b4"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2367/XX Verwaltung privater Liegenschaften durch landeseigene Wohnungsgesellschaften auch in Neukölln?",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7708",
+  "Initiator": "LINKE",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b5"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2366/XX Unbewohnbarkeit Hinterhaus Karl-Marx-Straße 179",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7707",
+  "Initiator": "Grüne",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b6"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2365/XX Standort Alt-Buckow",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7706",
+  "Initiator": "CDU",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b7"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2364/XX Sanierungsstopp durch Denkmalschutz in der High-Deck-Siedlung",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7705",
+  "Initiator": "SPD",
+  "pubDate": "",
+  "Art": "Mündliche Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b8"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2363/XX Genehmigung der im Haushaltsjahr 2020 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7704",
+  "Initiator": "BzBm/FinWi",
+  "pubDate": "23.06.2021",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3b9"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2362/XX Wahl einer Bürgerdeputierten in den Jugendhilfeausschuss",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7703",
+  "Initiator": "Vorsteher/in",
+  "pubDate": "23.06.2021",
+  "Art": "Vorlage zur Wahl"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ba"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2361/XX Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7702",
+  "Initiator": "Vorsteher/in",
+  "pubDate": "23.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3bb"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2360/XX Bebauungsplan 8-86a „Glasower Straße - Ost“",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7701",
+  "Initiator": "BA/StadtSozBüd",
+  "pubDate": "",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3bc"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2359/XX Verlängerung der Veränderungssperre XIV-207b/33 für das Grundstück Rhodeländerweg 109 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes XIV-207b",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7700",
+  "Initiator": "BA/StadtSozBüd",
+  "pubDate": "",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3bd"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2358/XX Veränderungssperre XIV-3-1/35 für das Grundstück Neuköllnische Allee 112, Schmalenbachstraße 7/9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-3-1",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7699",
+  "Initiator": "BA/StadtSozBüd",
+  "pubDate": "",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3be"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2357/XX Von deutschem Boden darf nie wieder ein Krieg ausgehen",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7698",
+  "Initiator": "LINKE",
+  "pubDate": "23.06.2021",
+  "Art": "Entschließung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3bf"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2356/XX Ankauf von Wohnungsbeständen geplant?",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7697",
+  "Initiator": "LINKE",
+  "pubDate": "",
+  "Art": "Große Anfrage 2"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c0"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2355/XX Radialroute RR 10 sicherer machen",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7696",
+  "Initiator": "Grüne",
+  "pubDate": "",
+  "Art": "Große Anfrage 2"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c1"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2354/XX Pandemie; ein paar wenige machen Kasse?",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7695",
+  "Initiator": "AfD-Neukölln",
+  "pubDate": "",
+  "Art": "Große Anfrage 1"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c2"
+  },
+  "Scraped": true,
+  "District": "neukoelln",
+  "Headline": "2353/XX Jobcenter/Sozialamt wieder regelmäßig öffnen",
+  "Link": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7694",
+  "Initiator": "LINKE",
+  "pubDate": "",
+  "Art": "Große Anfrage 1"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c3"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2217/XX Sperrmüllaktionstage auch in Lichtenrade und Marienfelde einrichten",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8091",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "29.06.2021",
+  "Art": "Mitteilung zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c4"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "1626/XX Bürgerservice wieder auf 100% bringen",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7489",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "29.06.2021",
+  "Art": "Mitteilung zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c5"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2248/XX Mietverzicht in Seniorenwohnhäusern in Tempelhof- Schöneberg",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8111",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "23.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c6"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2243/XX Sofortmaßnahmen in den Bürgerämtern – umgehend mehr Termine zur Verfügung stellen!",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8104",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "23.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c7"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2280/XX Unerledigte Beschlüsse der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XX. Wahlperiode",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8141",
+  "Initiator": "Bezirksverordnetenvorsteher",
+  "pubDate": "22.06.2021",
+  "Art": "Vorlage des BV-Vorstehers"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c8"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2279/XX Sondermittel-Bewilligung für Musikworkshop in Tempelhof-Schöneberg",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8140",
+  "Initiator": "Die Fraktion DIE LINKE",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3c9"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2278/XX Sondermittel der BVV für Sommerferien-Musikworkshop für Kinder",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8139",
+  "Initiator": "Die Fraktion GRÜNE",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ca"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2277/XX Sportplatz auf dem Schulhof der Friedrich-Bergius-Oberschule für Kinder und Jugendliche zur sportlichen Nutzung schnell öffnen!",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8138",
+  "Initiator": "Die Fraktion GRÜNE",
+  "pubDate": "22.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3cb"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2276/XX Festlegung neuer Einschulungsbereiche für 7 Grundschulen zum Schuljahr 2022/2023",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8137",
+  "Initiator": "Bezirksamt",
+  "pubDate": "22.06.2021",
+  "Art": "Mitteilung zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3cc"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2186/XX Die Käthe-Kollwitz-Grundschule braucht eine Renovierung",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8047",
+  "Initiator": "Kinder- und Jugendparlament",
+  "pubDate": "22.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3cd"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2184/XX Eindeutiges Klingelzeichen an der Käthe-Kollwitz-Grundschule",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8045",
+  "Initiator": "Kinder- und Jugendparlament",
+  "pubDate": "22.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ce"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2175/XX Schultoiletten der Grundschule auf dem Tempelhofer Feld",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8036",
+  "Initiator": "Kinder- und Jugendparlament",
+  "pubDate": "22.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3cf"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2174/XX Überarbeitung der Klingelanlage",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8035",
+  "Initiator": "Kinder- und Jugendparlament",
+  "pubDate": "22.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d0"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2164/XX Reparieren der Trennwände der Turnhalle in der Finow-Grundschule",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8025",
+  "Initiator": "Kinder- und Jugendparlament",
+  "pubDate": "22.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d1"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2163/XX Sanierung der Toilettenräume in der Nahariya-Grundschule",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8024",
+  "Initiator": "Kinder- und Jugendparlament",
+  "pubDate": "22.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d2"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2161/xx Neue Fahrradständer für die Nahariya-Grundschule",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8022",
+  "Initiator": "Kinder- und Jugendparlament",
+  "pubDate": "22.06.2021",
+  "Art": "Beschlussempfehlung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d3"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "1193/XX Europa im Bezirk sichtbarer machen",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7048",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "22.06.2021",
+  "Art": "Mitteilung zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d4"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "0334/XX Fahrradspur an der Kreuzung Kolonnenstraße/Hauptstraße sicher machen",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6186",
+  "Initiator": "Die Fraktion GRÜNE",
+  "pubDate": "22.06.2021",
+  "Art": "Mitteilung zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d5"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "0222/XX „Halt inne!“ Gedenk-und Mahnort Nollendorfplatz",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6090",
+  "Initiator": "Die Fraktion der SPD",
+  "pubDate": "22.06.2021",
+  "Art": "Mitteilung zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d6"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2275/XX Neu-Tempelhof-Schöneberger Bürgerinnen und Bürgern Anmeldung bis zum 26.6.2021 ermöglichen, um an Berliner Wahlen im September 2021 teilnehmen zu können",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8136",
+  "Initiator": "Die Fraktion der FDP",
+  "pubDate": "21.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d7"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2274/XX Neugründung einer Grundschule am Standort Ella-Barowsky-Straße 62-63 in 10829 Berlin",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8135",
+  "Initiator": "Bezirksamt",
+  "pubDate": "15.06.2021",
+  "Art": "Vorlage zur Beschlussfassung"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d8"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2273/XX Fahrradbügel an der Hohenstaufenstraße 1-2",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8134",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3d9"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2272/XX Baustellenampel für den Fahrradverkehr in der Yorckstraße",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8133",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3da"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2271/XX Fahrradstraße In der Belziger Straße – ja, aber Parkplatzverluste minimieren",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8132",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3db"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2270/XX Städtebauliches Entwicklungskonzept City West",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8131",
+  "Initiator": "Die Fraktion GRÜNE",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3dc"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2269/XX Barbarossadreieck 7-93: Widersprüchliche Formulierungen zum Hochhausleitbild ersetzen",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8130",
+  "Initiator": "Die Fraktion DIE LINKE",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3dd"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2268/XX Verkehrskonzept für den Bereich der Schöneberger Linse",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8129",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3de"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2267/XX Die essbare Stadt weiterentwickeln",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8128",
+  "Initiator": "Die Fraktion GRÜNE",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3df"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2266/XX Platzbenennung nach Lucie Leydicke",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8127",
+  "Initiator": "Die Fraktion DIE LINKE",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e0"
+  },
+  "Scraped": true,
+  "District": "tempelhof-schoeneberg",
+  "Headline": "2265/XX Bewegliche Poller am Eingang und Ausgang der Rosenheimer Straße zwischen Münchener und Heilbronner Straße modernisieren",
+  "Link": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8125",
+  "Initiator": "Die Fraktion der CDU",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e1"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2340/V Mitbestimmung für Kinder- und Jugendliche",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8103",
+  "Initiator": "Jugendhilfeausschuss",
+  "pubDate": "22.06.2021",
+  "Art": "Ausschussantrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e2"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2324/V Umsetzung der großzügigen Sondernutzung für die Außengastronomie!?",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8087",
+  "Initiator": "FDP-Fraktion",
+  "pubDate": "22.06.2021",
+  "Art": "Vorlage zur Kenntnisnahme"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e3"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2339/V Neu-Steglitz-Zehlendorfer Bürgerinnen und Bürgern Anmeldung bis zum 26.6.2021 ermöglichen, um an Berliner Wahlen im September 2021 teilnehmen zu können",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8102",
+  "Initiator": "FDP-Fraktion",
+  "pubDate": "16.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e4"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2338/V Coronabedingter Übernutzung der Seen begegnen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8101",
+  "Initiator": "GRÜNE-Fraktion",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e5"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2337/V Knochenfunde auf FU-Gelände: Konsequent weitergraben und aufklären!",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8100",
+  "Initiator": "GRÜNE- und CDU-Fraktion",
+  "pubDate": "15.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e6"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2336/V Saubere Lieferkette bei E-Auto-Akkus?",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8099",
+  "Initiator": "AfD-Fraktion",
+  "pubDate": "11.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e7"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2335/V Maßnahmen gegen zunehmende Sucht durch \"Lockdown\"",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8098",
+  "Initiator": "AfD-Fraktion",
+  "pubDate": "11.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e8"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2334/V Kosten von Straßenumbenennungen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8097",
+  "Initiator": "AfD-Fraktion",
+  "pubDate": "11.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3e9"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2333/V PopUp-Radweg – Kaiser-Wilhelm-Straße",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8096",
+  "Initiator": "FDP-Fraktion",
+  "pubDate": "11.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ea"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2332/V Feststellung einer außergewöhnlichen Notlage",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8095",
+  "Initiator": "SPD-Fraktion",
+  "pubDate": "10.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3eb"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2331/V S-Bahnhof Kamenzer Damm verwirklichen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8094",
+  "Initiator": "GRÜNE-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Dringlichkeitsantrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ec"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2330/V Parlamentarische Ferien",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8093",
+  "Initiator": "CDU-, SPD-, GRÜNE-, AfD-, FDP- und Linksfraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ed"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2329/V Wahlhilfflüchtige?",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8092",
+  "Initiator": "GRÜNE-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ee"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2328/V Sonderimpfaktion Thermometersiedlung in der Carl-Schumann-Halle am 22. und 23.05.2021",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8091",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3ef"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2327/V Umgang mit Wahlkampfmobilen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8090",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f0"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2326/V Schwimmkurse in Steglitz-Zehlendorf 2021",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8089",
+  "Initiator": "SPD-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Kleine Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f1"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2325/V Mehr Haltestellen der Fahrbibliothek für die Thermometersiedlung prüfen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8088",
+  "Initiator": "GRÜNE-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f2"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2323/V Würdigung von Maria Rimkus",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8086",
+  "Initiator": "AfD-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f3"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2322/V Bürgerfreundlich und kostensparend: Umwidmung statt Umbenennung des Maerckerweges",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8085",
+  "Initiator": "AfD-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f4"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2321/V Bienenfutterautomat auch für Steglitz-Zehlendorf",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8084",
+  "Initiator": "FDP-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f5"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2320/V Bürgerämter in Steglitz-Zehlendorf",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8083",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f6"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2319/V Hans Söhnker, Erna Scheffler und Kurt Huldschinsky ehren",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8082",
+  "Initiator": "GRÜNE- und CDU-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f7"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2318/V Outdoor-Sport in Steglitz-Zehlendorf planen und ermöglichen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8081",
+  "Initiator": "GRÜNE- und CDU-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f8"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2317/V Ehrung von Estrongo Nachama in Zehlendorf",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8080",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3f9"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2316/V Erholung für Kinder aus Sderot",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8079",
+  "Initiator": "CDU-Fraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Beschluss"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3fa"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2315/V Wann kommt endlich der Milieuschutz?",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8078",
+  "Initiator": "Linksfraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Große Anfrage"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3fb"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2314/V Klassenfahrten – nicht Klassenflüge!",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8077",
+  "Initiator": "Linksfraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3fc"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2313/V Eine Stimme für die zu Fuß Gehenden: Der Fuß-Rat!",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8076",
+  "Initiator": "Linksfraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3fd"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2312/V Bauliche Erhaltungssatzung für die noch erhaltenen Teile der Colonie Alsen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8075",
+  "Initiator": "Linksfraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+},{
+  "_id": {
+    "$oid": "60de15f56446dca88a62a3fe"
+  },
+  "Scraped": true,
+  "District": "steglitz-zehlendorf",
+  "Headline": "2311/V Fußgänger*innen nicht hetzen",
+  "Link": "https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8074",
+  "Initiator": "Linksfraktion",
+  "pubDate": "09.06.2021",
+  "Art": "Antrag"
+}]
