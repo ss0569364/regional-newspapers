@@ -70,6 +70,9 @@ Simply run:
 ## 3. SpaCy NER
 You can find our trained model in the python\NER directory with the python scripts to generate SpaCy Training Data and the Jupyter Notebook (NER.ipynb) to start the training process and validate it with 2 example sentences.
 
+To use the Public Model you have to download the de_core_news_lg language package.
+`python -m spacy download de_core_news_lg`
+
 ## 4. To Do
 You'll find an python\To Do directory, which shows which functionalities shall be implemented in the future.
 
